@@ -1,36 +1,18 @@
+<!--
+SPDX-License-Identifier: 0BSD
+-->
 # Project Title
 
-Simple overview of use/purpose.
+Fast seedable pseudo random number generator for my personal cpp projects.
 
-## Description
+## Usage
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+Include prng.hpp and link one of the prng_*.cpp implementations. Just copy and
+paste in your project!
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+None.
 
 ## Authors
 
@@ -39,15 +21,17 @@ Jaedin Davasligil
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
 ## License
+&copy; \<2024\> \<Jaedin Davasligil\>
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Licensed under the BSD Zero Clause License. See [LICENSE file](LICENSE.md) in
+the project root, or https://opensource.org/licenses/0BSD for full license
+information.
+
+The [SPDX](https://spdx.dev) license identifier for this project is `0BSD`.
 
 ## Acknowledgments
 
