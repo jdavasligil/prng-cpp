@@ -14,7 +14,7 @@ BUILD=build
 CC=clang++
 
 # Optimization flags (https://clang.llvm.org/docs/CommandGuide/clang.html)
-OPT=-O0
+OPT=-Og
 
 # Standard Supported
 STD=-std=c++17
